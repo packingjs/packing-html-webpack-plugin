@@ -257,7 +257,6 @@ HtmlWebpackPlugin.prototype.executeTemplate = function (templateFunction, chunks
       if (fs.existsSync(self.options.templateInitData)) {
         _.extend(templateParams, requireUncached(self.options.templateInitData));
       }
-      // console.log(templateParams.name);
       var html = '';
       try {
         html = templateFunction(templateParams);
