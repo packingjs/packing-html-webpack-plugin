@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhongzhi107/packing-html-webpack-plugin.git"
+    "url": "https://github.com/packingjs/packing-html-webpack-plugin.git"
   },
   "keywords": [
     "webpack",
@@ -25,9 +25,9 @@
   "author": "zhongzhi107",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhongzhi107/packing-html-webpack-plugin/issues"
+    "url": "https://github.com/packingjs/packing-html-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/zhongzhi107/packing-html-webpack-plugin",
+  "homepage": "https://github.com/packingjs/packing-html-webpack-plugin",
   "semistandard": {
     "ignore": [
       "examples/*/dist/**/*.*"
